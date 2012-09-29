@@ -98,6 +98,7 @@ Vagrant::Config.run do |config|
   #   chef.validation_client_name = "ORGNAME-validator"
 Vagrant::Config.run do |config|
   config.vm.box = "centos58"
+  config.vm.network :hostonly, "192.168.50.2"
   config.vm.provision :puppet do |puppet|
 	puppet.manifests_path = "manifests"
 	puppet.manifest_file = "default.pp"
