@@ -9,7 +9,7 @@ etc
  +puppet
    |-- extdata
    |    |-- nodes
-   |    |    +-- 412976-vm3.thoughtworks.com.csv
+   |    |    +-- bamdad-local.csv
    |    |-- application.csv
    |    +-- defaults.csv
    |-- manifests
