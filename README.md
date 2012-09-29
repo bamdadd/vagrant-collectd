@@ -23,7 +23,7 @@ etc
 </pre>
 
 
-### tw.com - Puppet Description
+### Bamdad - Puppet Description
 
 __extdata__
 - contains csv files for extlookup data.
