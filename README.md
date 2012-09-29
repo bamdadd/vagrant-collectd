@@ -2,7 +2,7 @@
 
 $SOMENAME - variable
 
-### tw.com - Puppet Structure
+### Bamdad - Puppet Structure
 
 <pre>
 etc
